@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5312],{6855:function(l){l.exports=JSON.parse('{"label":"hello","permalink":"/mvom/blog/tags/hello","allTagsPath":"/mvom/blog/tags","count":2}')}}]);
